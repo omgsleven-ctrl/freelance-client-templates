@@ -17,7 +17,12 @@ Free, copy-paste scripts and guides for the most expensive conversations in free
 | Guide | What you'll learn |
 |---|---|
 | [The Scope-Creep Script: Exact Words](guides/scope-creep-script-exact-words.md) | The script, the psychology, and handling all 3 client responses |
+| [How to Follow Up on a Proposal](guides/how-to-follow-up-on-a-proposal-email-template.md) | The 3-touch cadence + exact emails (without being annoying) |
+| [How Much Should I Charge?](guides/freelance-pricing-guide-how-much-to-charge.md) | Floor rate, market band, project pricing, 3-tier quotes |
 | [How to Raise Your Freelance Rates](guides/how-to-raise-freelance-rates-email-script.md) | The notice + reason + deadline formula, and the exact email |
+| [Late-Payment Reminder Emails](guides/late-payment-reminder-emails.md) | The 3-strike sequence that gets invoices paid |
+| [Client Onboarding Checklist](guides/client-onboarding-checklist.md) | Everything to send and collect before kickoff |
+| [Freelance Contract Essentials](guides/freelance-contract-template-essentials.md) | The clauses that actually protect you, in plain English |
 
 ## How to use
 
@@ -35,6 +40,6 @@ https://buy.stripe.com/dRm7sK2WfgtP6DodhC1oI00
 
 ---
 
-*Keywords: freelance contract template, scope creep script, client email templates, freelance proposal template, how to raise freelance rates, late payment reminder email, client onboarding template, freelancer business templates.*
+*Keywords: freelance contract template, scope creep script, client email templates, freelance proposal template, proposal follow up email, how much should I charge freelance, freelance pricing guide, how to raise freelance rates, late payment reminder email, client onboarding template, freelancer business templates.*
 
 *Contract-related templates are practical starting points, not legal advice. Star the repo if a script saved you an awkward conversation.*

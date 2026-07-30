@@ -2,6 +2,8 @@
 
 Free, copy-paste scripts and guides for the most expensive conversations in freelancing — scope creep, ghosted proposals, late payments, and raising your rates. No signup. From **The Freelance Client Kit** (30 templates covering the entire client relationship — outreach, proposals, contracts, onboarding, pricing, invoicing, referrals).
 
+**Storefront: https://omgsleven-ctrl.github.io** — details, previews, and instant checkout.
+
 ## Free scripts
 
 | Script | When to use it |
